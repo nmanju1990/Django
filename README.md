@@ -15,6 +15,7 @@ DjangoProjects
 
 - django-admin startproject firstproject
 - cd firstproject
-- ls -R
+- ls -R  in git or  tree /f
 - py manage.py runserver
 http://127.0.0.1:8000
+- ctl -Break: Quit the server (Ctl + C)
