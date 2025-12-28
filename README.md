@@ -10,7 +10,7 @@ DjangoProjects
 - Ctrl + Shift + P : Type Python: Select Interpreter
 
 ##### Install Django: 
-- pip install Django==5.1
+- pip install Django==5.1 (one time)
 - py -m django --version
 
 - django-admin startproject firstproject
@@ -18,4 +18,4 @@ DjangoProjects
 - ls -R  in git or  tree /f
 - py manage.py runserver
 http://127.0.0.1:8000
-- ctl -Break: Quit the server (Ctl + C)
+- Quit the server (Ctl + C)
